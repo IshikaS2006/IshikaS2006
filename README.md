@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ishika Singh</h1>
+<h3 align="center">🚀 Developer | 🔬 Tech Explorer | 💡 Innovator</h3>
 
-<!--
-**IshikaS2006/IshikaS2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🎓 2nd Year B.Tech Student @ NIIT University  
+- 💻 Frontend Developer | ReactJS, Tailwind, GSAP  
+- 🔋 IoT & Hardware Enthusiast | Arduino, ESP32, Sensors  
+- 🏆 Hackathon Participant | Selected in Phase 2 of multiple events  
+- 📊 Economics Enthusiast | Data Analysis & Visualization  
+- 🎬 Loves Movies & Creative Storytelling  
+
+---
+
+## 🔧 Tech Stack
+
+### 💻 Programming & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,arduino,cpp,git,github,vscode" />
+</p>
+
+### 📊 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,notion,vercel,nodejs,mysql,postman" />
+</p>
+
+---
+
+
+### 🌱 AI + IoT in Plant Disease & Soil Nutrient Monitoring  
+🔹 **Domain**: AgriTech, AI & IoT  
+🔹 **Role**: Data Analyst & Developer  
+🔹 **Tech**: ML Models, ESP32, Sensors  
+
+<p>
+  <img src="https://img.shields.io/badge/IoT-Project-blue?style=for-the-badge&logo=arduino" />
+  <img src="https://img.shields.io/badge/EV-Tech-green?style=for-the-badge&logo=car" />
+</p>
+
+
+---
+
+
+### 🌐 Event Website Designing  
+🔹 **Domain**: Web Development & UI/UX  
+🔹 **Role**: Frontend Lead  
+🔹 **Tech**: React, TailwindCSS, GSAP  
+
+---
+
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishh-you&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishh-you&layout=compact&theme=radical" alt="langs" height="180"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishika-singh-543881332/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.instagram.com/ishh_.you/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="mailto:ishikasinghmavai2006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+⭐️ From [Ishika Singh](https://github.com/IshikaS2006)
