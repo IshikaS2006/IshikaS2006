@@ -21,12 +21,12 @@
 
 ### 💻 Programming & Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,arduino,cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,arduino,git,github,vscode,java,bootstrap" />
 </p>
 
 ### 📊 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,notion,vercel,nodejs,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=figma,framer,notion,vercel,nodejs,postman" />
 </p>
 
 ---
@@ -57,8 +57,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishh-you&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishh-you&layout=compact&theme=radical" alt="langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IshikaS2006&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshikaS2006&layout=compact&theme=radical" alt="langs" height="180"/>
 </p>
 
 ---
