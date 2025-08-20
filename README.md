@@ -26,7 +26,7 @@
 
 ### 📊 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,framer,notion,vercel,nodejs,postman" />
+  <img src="https://skillicons.dev/icons?i=figma,notion,vercel,nodejs,postman" />
 </p>
 
 ---
