@@ -39,7 +39,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/IoT-Project-blue?style=for-the-badge&logo=arduino" />
-  <img src="https://img.shields.io/badge/EV-Tech-green?style=for-the-badge&logo=car" />
 </p>
 
 
