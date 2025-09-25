@@ -34,8 +34,8 @@
 
 ### 🌱 AI + IoT in Plant Disease & Soil Nutrient Monitoring  
 🔹 **Domain**: AgriTech, AI & IoT  
-🔹 **Role**: Data Analyst & Developer  
-🔹 **Tech**: ML Models, ESP32, Sensors  
+🔹 **Role**: Developer  
+🔹 **Tech**: ML Models, ESP32, Sensors, Website
 
 <p>
   <img src="https://img.shields.io/badge/IoT-Project-blue?style=for-the-badge&logo=arduino" />
