@@ -32,6 +32,7 @@
 ---
 
 
+<h2>Highlighted Projects</h2>
 ### 🌱 AI + IoT in Plant Disease & Soil Nutrient Monitoring  
 🔹 **Domain**: AgriTech, AI & IoT  
 🔹 **Role**: Developer  
@@ -43,7 +44,6 @@
 
 
 ---
-
 
 ### 🌐 Event Website Designing  
 🔹 **Domain**: Web Development & UI/UX  
@@ -63,10 +63,11 @@
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
+<p align="">
   <a href="https://www.linkedin.com/in/ishika-singh-543881332/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://www.instagram.com/ishh_.you/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="mailto:ishikasinghmavai2006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://leetcode.com/u/ishikas2006/"><img src="https://www.svgrepo.com/show/306328/leetcode.svg" width="48" height="48"/></a>
 </p>
 
 ---
