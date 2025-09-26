@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishika Singh</h1>
-<h3 align="center">🚀 Developer | 🔬 Tech Explorer | 💡 Innovator</h3>
+<h3 align="center">🚀 Developer | 🔬 Tech Explorer | 💡 Innovator | 🧠 DSA Learner  </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300" />
@@ -9,11 +9,9 @@
 
 ## 🌟 About Me
 - 🎓 2nd Year B.Tech Student @ NIIT University  
-- 💻 Frontend Developer | ReactJS, Tailwind, GSAP  
-- 🔋 IoT & Hardware Enthusiast | Arduino, ESP32, Sensors  
-- 🏆 Hackathon Participant | Selected in Phase 2 of multiple events  
-- 📊 Economics Enthusiast | Data Analysis & Visualization  
-- 🎬 Loves Movies & Creative Storytelling  
+- 💻 Developer   
+- 🔋 IoT & Hardware Enthusiast  
+- 🏆 Hackathon Finalist 
 
 ---
 
@@ -21,12 +19,19 @@
 
 ### 💻 Programming & Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,arduino,git,github,vscode,java,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,java,nodejs,express,mongodb,git,github,vscode,bootstrap" />
 </p>
 
 ### 📊 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,notion,vercel,nodejs,postman" />
+<!-- Skillicons -->
+<img src="https://skillicons.dev/icons?i=figma,notion,vercel,postman" />
+
+<!-- Arduino (custom SVG) -->
+<img src="https://www.svgrepo.com/show/353423/arduino.svg" width="48" height="48"/>
+
+<!-- Thunder Client (custom SVG from its logo) -->
+<img src="https://raw.githubusercontent.com/rangav/thunder-client-support/main/images/thunder-icon.png" width="48" height="48"/>
 </p>
 
 ---
