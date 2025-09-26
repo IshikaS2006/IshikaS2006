@@ -25,7 +25,7 @@
 ### 📊 Tools & Platforms
 <p>
 <!-- Skillicons -->
-<img src="https://skillicons.dev/icons?i=figma,notion,vercel,postman,mongodb,git,github,vscode," />
+<img src="https://skillicons.dev/icons?i=figma,notion,vercel,postman,mongodb,git,github,vscode" />
 
 <!-- Arduino (custom SVG) -->
 <img src="https://www.svgrepo.com/show/353423/arduino.svg" width="48" height="48"/>
