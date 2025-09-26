@@ -46,7 +46,7 @@
 ### 🌐 Event Website Designing  
 🔹 **Domain**: Web Development & UI/UX  
 🔹 **Role**: Frontend Lead  
-🔹 **Tech**: React, TailwindCSS, GSAP  
+🔹 **Tech**: Nextjs,Threejs, TailwindCSS
 
 ---
 
