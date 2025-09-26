@@ -19,13 +19,13 @@
 
 ### 💻 Programming & Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,java,nodejs,express,mongodb,git,github,vscode,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,java,nodejs,express,bootstrap" />
 </p>
 
 ### 📊 Tools & Platforms
 <p>
 <!-- Skillicons -->
-<img src="https://skillicons.dev/icons?i=figma,notion,vercel,postman" />
+<img src="https://skillicons.dev/icons?i=figma,notion,vercel,postman,mongodb,git,github,vscode," />
 
 <!-- Arduino (custom SVG) -->
 <img src="https://www.svgrepo.com/show/353423/arduino.svg" width="48" height="48"/>
