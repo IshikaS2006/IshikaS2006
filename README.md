@@ -43,9 +43,6 @@
   <img src="https://img.shields.io/badge/IoT-Project-blue?style=for-the-badge&logo=arduino" />
 </p>
 
-
----
-
 ### 🌐 Event Website Designing  
 🔹 **Domain**: Web Development & UI/UX  
 🔹 **Role**: Frontend Lead  
