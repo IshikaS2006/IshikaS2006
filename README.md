@@ -33,6 +33,7 @@
 
 
 <h2>Highlighted Projects</h2>
+
 ### 🌱 AI + IoT in Plant Disease & Soil Nutrient Monitoring  
 🔹 **Domain**: AgriTech, AI & IoT  
 🔹 **Role**: Developer  
