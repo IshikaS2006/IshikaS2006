@@ -40,8 +40,8 @@
 <h2>Highlighted Projects</h2>
 
 ### 🌱 AI + IoT in Plant Disease & Soil Nutrient Monitoring  
-🔹 **Domain**: AgriTech, AI & IoT  
-🔹 **Role**: Developer  
+🔹 **Domain**: AgriTech, AI, Website & IoT  
+🔹 **Role**: Developer and Hardware Prototype 
 🔹 **Tech**: ML Models, ESP32, Sensors, Website
 
 <p>
@@ -52,6 +52,11 @@
 🔹 **Domain**: Web Development & UI/UX  
 🔹 **Role**: Frontend Lead  
 🔹 **Tech**: Nextjs,Threejs, TailwindCSS
+
+### 🐄 Breed Classification
+🔹 **Domain**: Horticulter, AI & Website
+🔹 **Role**: Developer 
+🔹 **Tech**: ML Models, Website
 
 ---
 
