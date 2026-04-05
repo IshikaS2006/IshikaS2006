@@ -1,17 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ishika Singh</h1>
 <h3 align="center">🚀 Developer | 🔬 Tech Explorer | 💡 Innovator | 🧠 DSA Learner  </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300" />
-</p>
-
 ---
 
 ## 🌟 About Me
 - 🎓 2nd Year B.Tech Student @ NIIT University  
-- 💻 Developer   
-- 🔋 IoT & Hardware Enthusiast  
-- 🏆 Hackathon Finalist 
 
 ---
 
@@ -33,30 +26,6 @@
 <!-- Thunder Client (custom SVG from its logo) -->
 <img src="https://raw.githubusercontent.com/rangav/thunder-client-support/main/images/thunder-icon.png" width="48" height="48"/>
 </p>
-
----
-
-
-<h2>Highlighted Projects</h2>
-
-### 🌱 AI + IoT in Plant Disease & Soil Nutrient Monitoring  
-🔹 **Domain**: AgriTech, AI, Website & IoT  
-🔹 **Role**: Developer and Hardware Prototype 
-🔹 **Tech**: ML Models, ESP32, Sensors, Website
-
-<p>
-  <img src="https://img.shields.io/badge/IoT-Project-blue?style=for-the-badge&logo=arduino" />
-</p>
-
-### 🌐 Event Website Designing  
-🔹 **Domain**: Web Development & UI/UX  
-🔹 **Role**: Frontend Lead  
-🔹 **Tech**: Nextjs,Threejs, TailwindCSS
-
-### 🐄 Breed Classification
-🔹 **Domain**: Horticulter, AI & Website
-🔹 **Role**: Developer 
-🔹 **Tech**: ML Models, Website
 
 ---
 
