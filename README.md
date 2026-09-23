@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,20&height=200&section=header&text=Ishika%20Singh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Systems+Builder;Full-Stack+Engineer;Data-Driven+Problem+Solver;Turning+Data+Into+Decisions" alt="Typing SVG" />
 
 <br/>
