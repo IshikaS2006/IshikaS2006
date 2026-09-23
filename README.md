@@ -249,6 +249,4 @@ open_to:
 
 *"Data tells the story — I build the systems that listen."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,20&height=120&section=footer" width="100%"/>
-
 </div>
